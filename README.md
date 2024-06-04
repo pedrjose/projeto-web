@@ -1,4 +1,4 @@
-# Projeto de Gerenciamento de Avaliações Universitário
+# Projeto de Gerenciamento de Avaliações
 
 Este é um projeto de gerenciamento de avaliações desenvolvido para fornecer uma interface para administradores gerenciarem avaliações, componentes curriculares, alunos e endereços.
 
@@ -12,7 +12,7 @@ Este é um projeto de gerenciamento de avaliações desenvolvido para fornecer u
 
 ## Desenvolvimento
 
-O projeto utiliza React para a construção da interface do usuário e o Axios para realizar chamadas remotas para operações CRUD. Além disso, desenvolvemos o [https://github.com/fabricio54/projeto-web](backend) em Spring Boot para fornecer os serviços RESTful necessários para o funcionamento da aplicação, por mais que não esteja implementado no frontend.
+O projeto utiliza React para a construção da interface do usuário e o Axios para realizar chamadas remotas para operações CRUD. Além disso, desenvolvemos o [backend em Spring Boot](https://github.com/fabricio54/projeto-web) para fornecer os serviços RESTful necessários para o funcionamento da aplicação, por mais que não esteja implementado no frontend.
 
 ## Como Usar
 
